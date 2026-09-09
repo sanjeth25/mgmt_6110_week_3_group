@@ -1,0 +1,6 @@
+{
+  "name": "Should I Leave Now?",
+  "description": "Real-time leave-now advisor for Singapore bus stops comparing walking time to arrival estimates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
